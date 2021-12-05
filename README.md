@@ -1,1 +1,1 @@
-# parking-intellegent-with-python
+# parking-intelligent-with-python
